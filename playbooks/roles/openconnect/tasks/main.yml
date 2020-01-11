@@ -136,4 +136,4 @@
 - import_tasks: docs.yml
 
 # Mirror the OpenConnect clients
-- import_tasks: mirror.yml
+# - import_tasks: mirror.yml

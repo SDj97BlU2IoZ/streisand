@@ -171,7 +171,7 @@
 - import_tasks: docs.yml
 
 # Mirror the OpenVPN clients
-- import_tasks: mirror.yml
+# - import_tasks: mirror.yml
 
 # Install stunnel
 # NOTE (@alimakki) - must be done after OpenVPN's Gateway task

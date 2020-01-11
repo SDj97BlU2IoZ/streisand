@@ -137,4 +137,4 @@
     force: yes
 
 # Mirror the Tor browser bundle
-- import_tasks: mirror.yml
+# - import_tasks: mirror.yml

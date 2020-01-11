@@ -110,4 +110,4 @@
 - import_tasks: docs.yml
 
 # Mirror the Shadowsocks clients
-- import_tasks: mirror.yml
+# - import_tasks: mirror.yml
