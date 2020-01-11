@@ -47,6 +47,6 @@
       when: streisand_le_enabled
     - role: ad-blocking
       when: streisand_ad_blocking_enabled
-    - streisand-mirror
+    # - streisand-mirror 
     - streisand-gateway
 ...
